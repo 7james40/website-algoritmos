@@ -314,7 +314,7 @@ function NumerosEnRango() {
 
 
 // realizar otros 2 algoritmos mas busca ejemplos en google 
-
+// Escribe un programa que tome una temperatura en grados Celsius como entrada y la convierta a grados Fahrenheit
 
 function Temperatura() {
     let celsius = parseFloat(prompt('Ingrese la temperatura en grados Celsius:'));
@@ -330,7 +330,7 @@ function Temperatura() {
 
 }
 
-
+// Escribe un programa que calcule el área de un círculo dado su radio
 
 function AreaCirculo() {
     let radio = parseFloat(prompt('Ingrese el radio del círculo:'));
